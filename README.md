@@ -13,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Json-server configuration:
 Open new terminal and connect to the server with the following command:
-json-server --watch api/db.json --port 3001
+- json-server --watch api/db.json --port 3001
